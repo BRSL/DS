@@ -16,11 +16,10 @@ Introduction
 	What is Analytics ?
 	Analytics vs Analysis
 	What is Data Science ?
-	Why Data Sciencence ?
+	Why Data Science ?
 
-
-Statistics
-----------
+Statistics & Probability
+------------------------
 	Descriptive Statistics
 	Inferential Statistics
 	Variable Types
@@ -29,21 +28,18 @@ Statistics
 	Mean, Median, Mode, Range, Weighted Mean
 	Quartiles
 	IQR
-	Fivenumber Summary
-	Types of Distrubtions
+	Five-number Summary
+	Types of Distributions
 	Variance and Standard Distribution
 	Coefficient of Variation
 	Linear Regression
 
-Probability
------------
-
-
-
 Analytics with Excel
 --------------------
 	Descriptive Statistics with Excel
-	Charts and Graphs in Excel
+	Correlation
+	Covariance
+	t-tests
 
 R Language
 ----------
@@ -70,11 +66,10 @@ R Language
 		XML and JSON files
 		Stata files
 		SAS files
-
+	
 	Simulation
 		Simulation Examples
 		Generate Numbers for a Linear Model
-	Base Graphics
 
 	Programming in R - Library Functions
 		Math functions
@@ -89,7 +84,7 @@ R Language
 	Programming in R - User Defined Functions
 		Scoping
 		Debugging
-	Split-Apply-Combine Funtions
+	Split-Apply-Combine Functions
 		split()
 		apply()
 		lapply()
@@ -104,17 +99,18 @@ R Language
 		pie
 		hist
 		boxplot
-	
+		symbols
+		custom plotting
+			sparklines
 
-Data Wragling
--------------
+Data Wrangling
+--------------
 	Tidy data
 	dplyr
 	tidyr
 	lubridate
 	Strings processing
 	Regular Expressions
-	case study: Flights data
 
 GitHub
 ------
@@ -122,15 +118,33 @@ GitHub
 	Git
 	GitHub
 	Markdown
-	R Studio
 	R-Markdown
-	knitr
-	R-Pubs
-
 
 Exploratory Data Analysis
 -------------------------
 	base plotting
 	lattice plotting
 	ggplot2
-	Case Study: Human Activity Tracking with Smart Phones
+	
+Data Products
+-------------
+	Shiny Apps
+	Slidify presentations
+	gitHub pages
+	knitR
+	
+Machine Learning
+----------------
+	What is ML and its Workflow ?
+	Learning Styles
+	Under fitting and Over fitting
+	Confusion Matrix
+	Classification and Regression
+	Linear Regression
+	Logistic Regression
+	Neural Networks
+	Bayesian Network and Naive Bayes
+	Support Vector Machines
+	K-nearest neighbours
+	Decision Trees
+	caret package
